@@ -37,9 +37,11 @@ So not only is the pace of the NBA increasing, the efficiency is as well. Which 
 
 4. 3-Point Shooting
 
-3-Point Shooting is an another apparent change in today's NBA. Records getting broke each year on a personal and organizational level. The top-5 amount of three pointers made in a season by a team happened in the last 4 seasons. While a lot of people credit this increase in three pointers shot and made to the Warriors. But before that you can see a steady increase in 3-Pointers Attempted, 3-Pointers Made, and 3-Pointer %. the Warriors popularized the 3-point shot, but the importance of making 3-pointers was becoming well known to teams around the league. You can see this here.
+3-Point Shooting is an another apparent change in today's NBA. Records getting broke each year on a personal and organizational level. The top-5 amount of three pointers made in a season by a team happened in the last 4 seasons. The Warriors had an enormous impact on how the league is shaped today. You can see a steady increase in 3-Pointers being attempted (3PA) and made (3PM) through the last 2 decades, in the years after their Championship success you can see bigger jumps in that steady increase of 3PA/3PM.
 
 ![3pointers](https://user-images.githubusercontent.com/72527742/188989619-3f8989e8-848a-4486-8a8f-ea5e939188c2.png)
 
-
+1.5 3PA increase, .37 3PM
+1.7 3PA increase after initial championship, 2 3PA increase and 3 3PA increase following 2016 and 2017 championships. 
+.7 3PM, .8 3PM, .9 3PM increases in 2014, 2016, 2017
 
